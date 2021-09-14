@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,KACE,eAAgB,CAChB,qBAAsB,CACtB,iBAAkB","file":"main.e8e70c3e.chunk.css","sourcesContent":["// Put styles here\n\n.App {\n  margin-top: 20px;\n  border: 1px solid #ddd;\n  border-radius: 8px;\n}"]}
